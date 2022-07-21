@@ -1,5 +1,4 @@
 import "./App.css";
-import Home from "./ex4/Home";
 import ChangeGlasses from "./HomeWork2_reactJs/ChangeGlasses";
 
 function App() {
